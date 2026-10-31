@@ -1,0 +1,63 @@
+{
+  "source_repository": "PacktPublishing/Practical-Data-Science-using-Python",
+  "commit": "d552eee7eed83dad0bfd66dd889657bdb51e4aa2",
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "files": [
+    {
+      "filename": "churn_data.csv",
+      "url": "https://raw.githubusercontent.com/PacktPublishing/Practical-Data-Science-using-Python/d552eee7eed83dad0bfd66dd889657bdb51e4aa2/churn_data.csv",
+      "sha256": "ff2f87ef76213996fe478da9055508da2d3caa7f3c892859111b6a3e18a2bc81",
+      "bytes": 484414,
+      "rows": 7043,
+      "columns": [
+        "customerID",
+        "tenure",
+        "PhoneService",
+        "Contract",
+        "PaperlessBilling",
+        "PaymentMethod",
+        "MonthlyCharges",
+        "TotalCharges",
+        "Churn"
+      ]
+    },
+    {
+      "filename": "customer_data.csv",
+      "url": "https://raw.githubusercontent.com/PacktPublishing/Practical-Data-Science-using-Python/d552eee7eed83dad0bfd66dd889657bdb51e4aa2/customer_data.csv",
+      "sha256": "a6f9da9872b66d6af649e797aa9b99ff2b3b149194e41c6acb3d47b4871ee4da",
+      "bytes": 181571,
+      "rows": 7043,
+      "columns": [
+        "customerID",
+        "gender",
+        "SeniorCitizen",
+        "Partner",
+        "Dependents"
+      ]
+    },
+    {
+      "filename": "internet_data.csv",
+      "url": "https://raw.githubusercontent.com/PacktPublishing/Practical-Data-Science-using-Python/d552eee7eed83dad0bfd66dd889657bdb51e4aa2/internet_data.csv",
+      "sha256": "31ef6d07e7f805d792027dd38530f65eccb53704308751934d3ef0d8b846b75f",
+      "bytes": 459440,
+      "rows": 7043,
+      "columns": [
+        "customerID",
+        "MultipleLines",
+        "InternetService",
+        "OnlineSecurity",
+        "OnlineBackup",
+        "DeviceProtection",
+        "TechSupport",
+        "StreamingTV",
+        "StreamingMovies"
+      ]
+    }
+  ]
+}
