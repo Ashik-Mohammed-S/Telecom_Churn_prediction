@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "files": {
+    "churn_data.csv": {
+      "sha256": "ff2f87ef76213996fe478da9055508da2d3caa7f3c892859111b6a3e18a2bc81",
+      "uncompressed_bytes": 484414,
+      "storage": "raw",
+      "path": "churn_data.csv"
+    },
+    "customer_data.csv": {
+      "sha256": "a6f9da9872b66d6af649e797aa9b99ff2b3b149194e41c6acb3d47b4871ee4da",
+      "uncompressed_bytes": 181571,
+      "storage": "raw",
+      "path": "customer_data.csv"
+    },
+    "internet_data.csv": {
+      "sha256": "31ef6d07e7f805d792027dd38530f65eccb53704308751934d3ef0d8b846b75f",
+      "uncompressed_bytes": 459440,
+      "storage": "raw",
+      "path": "internet_data.csv"
+    }
+  }
+}
